@@ -7,6 +7,9 @@
 ### Açıklama
 Bu depo, bilgisayarınızda PongPonger adware yazılımının kalıntılarını tespit edip temizlemek için kullanılan gelişmiş PowerShell betiklerini içerir. Bu betikler, orijinal temizlik betiklerine göre daha kapsamlı tarama ve temizlik seçenekleri sunar.
 
+![Açıklayıcı Metin](https://raw.githubusercontent.com/gkhantyln/PongPonger-Cleaner/main/advanced_2.png)
+
+
 ### Betikler
 
 #### 1. advanced_pongponger_cleaner.ps1
